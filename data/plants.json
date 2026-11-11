@@ -1,0 +1,26 @@
+{
+  "plant001": {
+    "name": "蓝花楹",
+    "scientific_name": "Jacaranda mimosifolia",
+    "features": "观察紫蓝色花簇、管状花冠及细碎的羽状复叶。",
+    "description": "本图库收录蓝花楹的花朵及枝叶照片。",
+    "campus_location": "待实地调查",
+    "source_url": "https://commons.wikimedia.org/wiki/Category:Jacaranda_mimosifolia"
+  },
+  "plant002": {
+    "name": "玉兰（白玉兰）",
+    "scientific_name": "Magnolia denudata",
+    "features": "观察白色大型花朵、花被片形态及开花枝条。",
+    "description": "本图库暂以白玉兰为对象，不混入其他玉兰种类。",
+    "campus_location": "待实地调查",
+    "source_url": "https://commons.wikimedia.org/wiki/Category:Magnolia_denudata"
+  },
+  "plant003": {
+    "name": "荷花",
+    "scientific_name": "Nelumbo nucifera",
+    "features": "观察花朵、中央莲蓬状结构及圆形盾状叶。",
+    "description": "本图库收录荷花照片，选图时需要与睡莲区分。",
+    "campus_location": "待实地调查",
+    "source_url": "https://commons.wikimedia.org/wiki/Category:Nelumbo_nucifera"
+  }
+}
