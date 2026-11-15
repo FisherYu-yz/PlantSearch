@@ -42,7 +42,6 @@ try:
         "features",
         "description",
         "campus_location",
-        "source_url",
     }
     if not isinstance(PLANTS, dict) or not PLANTS:
         raise ValueError("植物资料必须是非空字典。")
@@ -365,10 +364,6 @@ if search_clicked:
                         st.markdown(
                             f"**校园位置：** "
                             f"{plant['campus_location']}"
-                        )
-                        st.markdown(
-                            f"[查看图片分类来源]"
-                            f"({plant['source_url']})"
                         )
                         st.caption(
                             "检索结果供参考，请结合实物特征确认。"
